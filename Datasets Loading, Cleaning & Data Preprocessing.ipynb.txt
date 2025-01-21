@@ -28,7 +28,6 @@
    "source": [
     "#### Domain -  Travel & Tourism\n",
     "#### Contribution -  Individual\n",
-    "#### Team Member -  Sourabh Kumr"
    ]
   },
   {
